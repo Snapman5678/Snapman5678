@@ -1,10 +1,10 @@
 # Hi there, I'm Aamir Mohammed👋
 
-![Header](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Header](https://image.freepik.com/free-vector/programming-banner_52683-23840.jpg)
 
 ## About Me
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.giphy.com%2Fpart-2-computer-vision-giphy-how-we-created-an-autotagging-model-using-deep-learning%2F&psig=AOvVaw0GkbFaHWhkZHN5pXFbCJxl&ust=1720202184592000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiTs-L6jYcDFQAAAAAdAAAAABAw" width="300"/>
+<img align="right" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif" width="300"/>
 
 - 🏫 Student at PES University, graduating in 2026
 - 🌱 I’m currently learning neural networks
