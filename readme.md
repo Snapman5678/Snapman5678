@@ -1,15 +1,15 @@
-# Hi there, I'm Aamir👋
+# Hi there, I'm Aamir Mohammed👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Header](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## About Me
+
+<img align="right" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="300"/>
 
 - 🏫 Student at PES University, graduating in 2026
 - 🌱 I’m currently learning neural networks
 - 💬 Ask me about web development, machine learning
 - ⚡ Fun fact: Throughout heaven and Earth, I alone am the honoured one
-
-![Code](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 
 ## 🚀 Skills
 
@@ -56,5 +56,6 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aamir-mohammed-103103265/)
-- [Gmail](mailto:aamirmohammed5678@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aamir-mohammed-103103265/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aamirmoahmmed5678@gmail.com)
+
