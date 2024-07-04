@@ -3,7 +3,7 @@
 
 ## About Me
 
-<img align="right" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif" width="200"/>
+<img align="right" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif" width="250"/>
 
 - 🏫 Student at PES University, B.Tech in Computer Science Engineering, graduating in 2026.
 - 🌱 I’m currently learning neural networks
@@ -41,7 +41,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 
-![Code Review](https://user-images.githubusercontent.com/69352051/158924456-088f4b5c-8ff7-4f23-b4ff-8a9824890c92.png)
 
 ## 📊 GitHub Stats
 
