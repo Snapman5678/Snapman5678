@@ -1,12 +1,11 @@
-# Hi there, I'm Aamir Mohammed👋
-
-![Header](https://image.freepik.com/free-vector/programming-banner_52683-23840.jpg)
+[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)](https://Snapman5678.github.io/)
+<h1 align="center">Hi 👋, I'm Aamir Mohammed</h1>
 
 ## About Me
 
 <img align="right" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif" width="300"/>
 
-- 🏫 Student at PES University, graduating in 2026
+- 🏫 Student at PES University, B.Tech in Computer Science Engineering, graduating in 2026.
 - 🌱 I’m currently learning neural networks
 - 💬 Ask me about web development, machine learning
 - ⚡ Fun fact: Throughout heaven and Earth, I alone am the honoured one
