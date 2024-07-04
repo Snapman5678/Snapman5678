@@ -1,27 +1,33 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aamir👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Snapman5678&color=blue)
 
 ## About Me
 
-- 🌱 I’m currently learning [technology or topic you're learning]
-- 👯 I’m looking to collaborate on [projects or topics]
-- 🤔 I’m looking for help with [area where you need help]
-- 💬 Ask me about [topics you are knowledgeable about]
-- 📫 How to reach me: [your email or social media]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [a fun fact about you]
+- 🌱 I’m currently learning neural networks
+- 💬 Ask me about web development, machine learning
+- ⚡ Fun fact: Throughout heaven and Earth, I alone am the honoured one
 
 ## 🚀 Skills
 
-- Programming Languages: [list your languages]
-- Frameworks: [list your frameworks]
-- Tools: [list your tools]
-- Other: [any other skills]
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
+### Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Snapman5678&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
 
@@ -29,31 +35,4 @@
 
 ## 📫 Connect with Me
 
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Personal Website/Blog](https://yourwebsite.com)
-
-## 🔗 Projects
-
-- [Project 1](https://github.com/yourusername/project1)
-  - Description of Project 1
-- [Project 2](https://github.com/yourusername/project2)
-  - Description of Project 2
-
-## 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
-
-## 📅 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## Support Me
-
-If you like my work, consider buying me a coffee ☕:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/aamir-mohammed-103103265/)
