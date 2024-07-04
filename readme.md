@@ -3,7 +3,7 @@
 
 ## About Me
 
-<img align="right" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif" width="300"/>
+<img align="right" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif" width="200"/>
 
 - 🏫 Student at PES University, B.Tech in Computer Science Engineering, graduating in 2026.
 - 🌱 I’m currently learning neural networks
