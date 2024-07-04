@@ -4,7 +4,7 @@
 
 ## About Me
 
-<img align="right" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="300"/>
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.giphy.com%2Fpart-2-computer-vision-giphy-how-we-created-an-autotagging-model-using-deep-learning%2F&psig=AOvVaw0GkbFaHWhkZHN5pXFbCJxl&ust=1720202184592000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiTs-L6jYcDFQAAAAAdAAAAABAw" width="300"/>
 
 - 🏫 Student at PES University, graduating in 2026
 - 🌱 I’m currently learning neural networks
